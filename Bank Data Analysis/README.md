@@ -1,9 +1,7 @@
 
-# Project Title
+## About Project
 
 This project "Bank Data Analysis" focuses on analyzing bank customer data using Power BI to derive actionable insights and inform strategic decision-making. The analysis covers customer demographics, financial behavior, and defaulting trends to identify key patterns and areas for improvement.
-
-
 
 ## Objective
 
@@ -19,10 +17,10 @@ Power BI Desktop
 
 ## Screenshots
 
-![Main Menu](https://drive.google.com/file/d/1Vmac3WiDoVhBOvJ2cfWyUqaCntzueLDh/view?usp=sharing)
-![Customer Analysis](https://drive.google.com/file/d/1AKjn_643u_qzqElsPWU0ymLuFsHEPlom/view?usp=sharing)
-![Customer Distribution](https://drive.google.com/file/d/1fclIi0UNl0ukwI-hBixfVyojVVJnFpEi/view?usp=sharing)
-![Trend Analysis](https://drive.google.com/file/d/1hEZ5qNid69OGasalVpLIiKHqANoXrE34/view?usp=sharing)
+![Screenshot (304)](https://github.com/user-attachments/assets/1d69203c-3289-4e34-abae-775f500fd2c5)
+![Screenshot (305)](https://github.com/user-attachments/assets/3f89e640-f2e1-4cd5-9af4-10c30ef2ddb9)
+![Screenshot (306)](https://github.com/user-attachments/assets/a73832c3-83e3-4c9c-9053-aa61886b5020)
+![Screenshot (307)](https://github.com/user-attachments/assets/91032dab-7fd3-40d0-99c7-94a4c8acdc27)
 
 ## Project Link
 
@@ -34,13 +32,11 @@ Use the below link-
 ## Key Insights
 
 Customer Demographics:
-
 - Identified California as the state with the highest customer base, comprising 53% of total customers.
 - Found that most customers are aged between 30-40, a critical segment for targeted financial products.
 - Highlighted that nearly 50% of customers have secondary education, emphasizing the need for better customer support and education.
 
 Defaulting Trends:
-
 - Recognized that married customers, despite contributing to higher deposits, are more prone to defaults.
 - Observed that 2,500 highly qualified, white-collar professionals are among the top defaulters.
 - Identified that male loan holders are more likely to default than females, suggesting a need for tailored credit risk assessments.
